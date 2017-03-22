@@ -1,3 +1,3 @@
-# My Awesome Book
+# Data Analysis and Machine Learning
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book combines concept with practice, covers Data Analysis and Machine Learning areas, aimed to help related people find their way to model their big data problems and solve them.
